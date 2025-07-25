@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jul 15 09:30:58 2025
-
-@author: KIRTAN
 """
 
 import streamlit as st
